@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+python-dotenv
+transformers
+Pillow
+requests
+numpy
+torch
+pandas
+openpyxl
